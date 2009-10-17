@@ -15,7 +15,7 @@ By repeating the recording process for different use-cases and different target 
 
 = How does it work? =
 
-php-mock-recorder uses PHP's dynamic features such as Reflection and the built-in eval() function, to create a wrapper class that captures all method calls and return values to and from a specified target object. Then it takes the captured information and generates PHP code that is able to simulate the target object for future unit or regression testing purposes.
+php-mock-recorder uses PHP's dynamic features such as Reflection and the built-in eval() function, to create a wrapper class that captures all method calls and return values to and from a specified target object. Then it takes the captured information and generates code for stand-alone, self-contained PHP classes that are able to simulate the target object for future unit or regression testing purposes.
 
 = Where is the source code? =
 
