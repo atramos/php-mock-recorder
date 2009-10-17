@@ -5,6 +5,14 @@
 
 PHP is only a sideline interest for me, so I don't have a lot of time to spend on this project. I have created a working proof-of-concept and I hope the idea will catch on and attract volunteers to improve it. Please feel free to contribute.
 
+php-mock-recorder enables the developer to take an existing application, run it through a use case, and automatically capture Mock Classes that mimick existing object behaviors for that given use-case.
+
+php-mock-recorder generates the mock class with expectations and behaviors already captured, unlike other frameworks which require hand-coding of the behaviors and expectations.
+
+The generated mock classes have no dependency on the original classes.
+
+By repeating the recording process for different use-cases and different target objects, the programmer can slice and dice any existing code into distinct sets of "to be tested" and "to be mocked" classes.
+
 = Where is the source code? =
 
 It's in the zip archive at http://code.google.com/p/php-mock-recorder/downloads/list
