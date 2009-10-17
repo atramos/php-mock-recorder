@@ -5,6 +5,10 @@
 
 PHP is only a sideline interest for me, so I don't have a lot of time to spend on this project. I have created a working proof-of-concept and I hope the idea will catch on and attract volunteers to improve it. Please feel free to contribute.
 
-= Details =
+= Where is the source code? =
 
-In the download package, see php-mock-example.php for sample usage.
+It's in the zip archive at http://code.google.com/p/php-mock-recorder/downloads/list
+
+= How do I use php-mock-recorder? =
+
+In the archive, see php-mock-example.php for sample usage.
