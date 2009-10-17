@@ -7,4 +7,4 @@ PHP is only a sideline interest for me, so I don't have a lot of time to spend o
 
 = Details =
 
-In the download package, see php-mock.example for sample usage.
+In the download package, see php-mock-example.php for sample usage.
