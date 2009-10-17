@@ -8,4 +8,4 @@ Please feel free to contribute.
 
 = Details =
 
-PHP is only a sideline interest for me, so I don't have a lot of time to spend on this project. I hope the idea will attract volunteers to improve it. Please feel free to contribute.
+PHP is only a sideline interest for me, so I don't have a lot of time to spend on this project. I have created a working proof-of-concept and I hope the idea will catch on and attract volunteers to improve it. Please feel free to contribute.
